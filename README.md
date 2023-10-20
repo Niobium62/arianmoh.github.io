@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, Java, C#, Unity3D, PC Building
+#### Technical Skills: Python, SQL, Data Analysis, Relational DBMS, Java, C#, Unity3D, PC Building
 #### Soft Skills: Teamwork, Communication, Desire to learn
 
 # Projects
