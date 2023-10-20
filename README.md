@@ -7,7 +7,7 @@
 - [Python Data Scraping](https://github.com/Niobium62/Web-Scraping)
 - [SQL Querying and Designing a Schema](https://github.com/Niobium62/SQLQueries)
 - [Various Data Analysis Reports](https://github.com/Niobium62/data-analysis-reports)
-- [Star Shooter](https://github.com/Niobium62/Spaceship-Game)
+- [Star Shooter (Unity Game)](https://github.com/Niobium62/Spaceship-Game)
 - [Group-Published Reports on FreeBSD's architecture](https://github.com/BitTheoryProject/eecs4314-reports)
 
 # Education
