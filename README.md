@@ -2,6 +2,7 @@
 
 #### Technical Skills: Python, SQL, Data Analysis, Relational DBMS, Java, C#, Unity3D, PC Building
 #### Soft Skills: Teamwork, Communication, Desire to learn
+#### [LinkedIn Profile](https://www.linkedin.com/in/arian-mohamad-hosaini-792757139/)
 
 # Projects
 - [Python Data Scraping](https://github.com/Niobium62/Web-Scraping)
