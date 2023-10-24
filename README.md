@@ -10,6 +10,9 @@
 - [Various Data Analysis Reports](https://github.com/Niobium62/data-analysis-reports)
 - [Star Shooter (Unity Game)](https://github.com/Niobium62/Spaceship-Game)
 - [Group-Published Reports on FreeBSD's architecture](https://github.com/BitTheoryProject/eecs4314-reports)
+- [Java Soccer Game](https://github.com/Niobium62/Soccer-Project)
+- [Unit Conversion with a User Interface](https://github.com/Niobium62/Unit-Conversion-Project)
+- [Randomly-Generated Shapes](https://github.com/Niobium62/Shape-Display-Project)
 
 # Education
 - Honours BA, Computer Science | York University (_October 2022_)
