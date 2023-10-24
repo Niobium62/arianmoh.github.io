@@ -13,6 +13,7 @@
 - [Java Soccer Game](https://github.com/Niobium62/Soccer-Project)
 - [Unit Conversion with a User Interface](https://github.com/Niobium62/Unit-Conversion-Project)
 - [Randomly-Generated Shapes](https://github.com/Niobium62/Shape-Display-Project)
+- [Employee Record Browser](https://github.com/Niobium62/EmployeeRecordBrowser)
 
 # Education
 - Honours BA, Computer Science | York University (_October 2022_)
