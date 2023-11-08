@@ -16,7 +16,7 @@
 - [Employee Record Browser](https://github.com/Niobium62/EmployeeRecordBrowser)
 
 # Education
-- Honours BA, Computer Science | York University (_October 2022_)
+- Honours BA, Computer Science | York University (_October 2023_)
 - High School Diploma | Earl Haig Secondary School (_June 2016_)
 
 # Certifications
