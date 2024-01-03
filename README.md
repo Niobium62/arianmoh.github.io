@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Engineer
 
 #### Technical Skills: Python, Airflow, Docker, SQL, MySQL, Postgres, Data Analysis, Relational DBMS, Java, C#, Unity3D, PC Building
 #### Soft Skills: Teamwork, Communication, Desire to learn
