@@ -1,10 +1,11 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, Data Analysis, Relational DBMS, Java, C#, Unity3D, PC Building
+#### Technical Skills: Python, Airflow, Docker, SQL, MySQL, Postgres, Data Analysis, Relational DBMS, Java, C#, Unity3D, PC Building
 #### Soft Skills: Teamwork, Communication, Desire to learn
 #### [LinkedIn Profile](https://www.linkedin.com/in/arian-mohamad-hosaini-792757139/)
 
 # Projects
+- [Yelp Restaurant Data Pipeline](https://github.com/Niobium62/airflow-restaurant/)
 - [Python Data Scraping](https://github.com/Niobium62/Web-Scraping)
 - [SQL Querying](https://github.com/Niobium62/SQLQueries)
 - [Various Data Analysis Reports](https://github.com/Niobium62/data-analysis-reports)
