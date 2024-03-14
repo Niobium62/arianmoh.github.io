@@ -2,7 +2,7 @@
 
 #### Technical Skills: Python, Airflow, Docker, SQL, MySQL, Postgres, Data Analysis, Relational DBMS, Java, C#, Unity3D, PC Building
 #### Soft Skills: Teamwork, Communication, Desire to learn
-#### [LinkedIn Profile](https://www.linkedin.com/in/arian-mohamad-hosaini-792757139/)
+#### [LinkedIn Profile](https://www.linkedin.com/in/arian-hosaini-792757139/)
 
 # Projects
 - [Yelp Restaurant Data Pipeline](https://github.com/Niobium62/airflow-restaurant/)
